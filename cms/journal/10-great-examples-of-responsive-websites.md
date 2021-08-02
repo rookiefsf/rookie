@@ -1,22 +1,22 @@
 ---
-created-on: '2021-05-10T22:23:30.574Z'
+title: 10 Great Examples of Responsive Websites
+created-on: 2021-05-10T22:23:30.574Z
+updated-on: 2021-05-17T16:19:15.472Z
+published-on: 2021-05-17T16:19:15.472Z
+f_author: cms/team/wilson-tomales.md
+f_short-description: Proin euismod, urna vitae auctor venenatis, mi metus
+  consectetur est, non rutrum sapien eros.
+f_popular: false
 f_hero-image:
   url: /assets/external/61075fc1707887386ee80c8b_018.jpeg
   alt: null
-f_short-description: >-
-  Proin euismod, urna vitae auctor venenatis, mi metus consectetur est, non
-  rutrum sapien eros.
-f_author: cms/team/wilson-tomales.md
-title: 10 Great Examples of Responsive Websites
+layout: "[journal].html"
 slug: 10-great-examples-of-responsive-websites
-updated-on: '2021-05-17T16:19:15.472Z'
-f_popular: false
 f_card-image:
   url: /assets/external/61075fc1707887386ee80c8b_018.jpeg
   alt: null
-published-on: '2021-05-17T16:19:15.472Z'
-layout: '[journal].html'
 tags: journal
+date: 2021-08-02T13:54:11.326Z
 ---
 
 Rerum excepturi tempora excepturi assumenda magnam ducimus.
